@@ -1,16 +1,14 @@
 ---
-description: Document
+description: >-
+  SafeBsc Finance Portfolio Digital Currency. Defi. Protect your digital asset.
+  Watch your worth and growth. Smooth Graph and Trust data.
 ---
 
-# About
+# Document
 
-## Can I become who I want to be?
+## About us
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+SafeBsc Finance Portfolio Digital Currency. Defi. Protect your digital asset. Watch your worth and growth. Smooth Graph and Trust data.
 
 
 
