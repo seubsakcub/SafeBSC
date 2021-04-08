@@ -4,7 +4,7 @@ description: >-
   Watch your worth and growth. Smooth Graph and Trust data.
 ---
 
-# What we do ?
+# About
 
 ## About us
 
