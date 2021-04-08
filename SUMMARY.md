@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [Document](README.md)
 * [Untitled](untitled.md)
 
 ## Usage <a id="roadmap"></a>
